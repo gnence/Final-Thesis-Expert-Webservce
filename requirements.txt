@@ -1,0 +1,5 @@
+mysql-connector
+dialogflow
+requests
+flask
+flask_cors
